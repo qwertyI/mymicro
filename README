@@ -1,0 +1,5 @@
+虚拟环境下运行
+linux：
+$ . venv/bin/activate
+windows：
+$ venv\scripts\activate
